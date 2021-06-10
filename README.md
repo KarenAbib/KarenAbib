@@ -14,6 +14,7 @@
     <code><img height="30" src="https://img.shields.io/badge/-React-CC342D?style=flat&logo=React&color=#fc03f0" alt="React"/></code>
     <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=fc03f0" alt="Vs"/></code>
     <code><img height="30" src="https://img.shields.io/badge/-Bootstrap-171615?style=flat&logo=Bootstrap&color=fc03f0&logoColor=white" alt="Bootstrap"/></code>
+    <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="Python"/></code>
   
   <h3> 📞 &nbsp; Contact Me</h3>
   <hr>

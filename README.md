@@ -15,7 +15,7 @@
     <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
     <code><img height="30" src="https://img.shields.io/badge/-Bootstrap-171615?style=flat&logo=Bootstrap&color=fc03f0&logoColor=white" alt="Bootstrap"/></code>
     <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></code>
-    <code><img heigth="100" src="https://img.shields.io/badge/ADVPL-035efc?style=flat&logo=totvs&logoColor=black" alt="advpl"/></code>
+    <code><img heigth="100" src="https://img.shields.io/badge/ADVPL-035efc?style=flat&logo=C&logoColor=black" alt="advpl"/></code>
     <code><img height="30" src="https://img.shields.io/badge/AdobeXD-fc03d7?style=flat&logo=adobe&logoColor=black" alt="adobe"/></code>
   
   <h3> 📞 &nbsp; Contact Me</h3>

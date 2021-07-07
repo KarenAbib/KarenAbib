@@ -21,7 +21,7 @@
   <h3> 📞 &nbsp; Contact Me</h3>
   <hr>
   <p align="left">
-  <a address="mailto:karen.abib@gmail.com" alt="Gmail">
+  <a href="mailto:karen.abib@gmail.com" alt="Gmail">
   <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=karen.abib@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/karen-abib/" alt="Linkedin">

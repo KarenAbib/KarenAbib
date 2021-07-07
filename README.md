@@ -4,7 +4,7 @@
   
   <h3> 👧: &nbsp;About Me </h3>
   
-  - 🎓 &nbsp; Student Systems Analysis and Development on <a href="franca.edu.br">FATEC</a>
+  - 🎓 &nbsp; Student Systems Analysis and Development on <a href="https://site.fatecfranca.edu.br/">FATEC</a>
   - 💼 &nbsp; Working  on <a href="https://www.esquadros.com.br/">Esquadros</a>
   
   
